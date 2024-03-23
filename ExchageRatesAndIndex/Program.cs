@@ -12,6 +12,7 @@ namespace ExchageRatesAndIndex
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
+        // I have changed in Program files for testing 
         static void Main()
         {
             
